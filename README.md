@@ -2,7 +2,7 @@
 
 An accurate, browser-based agent simulation of **phantom traffic jams**: the stop-and-go waves that form on busy roads with *no* accident, signal, or bottleneck — purely from the collective behaviour of drivers. Indian-roads edition, with a heterogeneous mix of bikes, autos, cars and trucks.
 
-Every vehicle is a real **Intelligent Driver Model** agent. The jam wave, traffic flow, and density are all *measured live* from the simulation — nothing is faked or scripted.
+Every vehicle is a real **Intelligent Driver Model** agent. The jam wave, traffic flow, and density are all *measured live* from the simulation.
 
 ![IDM](https://img.shields.io/badge/model-Intelligent_Driver_Model-5BD6A8) ![React](https://img.shields.io/badge/React-18-7FB3FF) ![Vite](https://img.shields.io/badge/Vite-5-B79CFF)
 
