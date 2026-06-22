@@ -33,7 +33,7 @@ Opens at `http://localhost:5173`. Build for production with `npm run build`.
 
 ## Why the physics is accurate
 
-This is not a toy animation with scripted slowdowns. The engine implements published traffic-flow models:
+ The engine implements published traffic-flow models:
 
 - **Intelligent Driver Model** (Treiber, Hennecke & Helbing 2000) — the standard car-following equation, with the free-acceleration exponent δ = 4 and the full dynamic-gap term.
 - **Ballistic integration** at a fixed timestep — the numerically stable update Treiber recommends, decoupled from frame rate, so runs are deterministic and reproducible from a seed.
