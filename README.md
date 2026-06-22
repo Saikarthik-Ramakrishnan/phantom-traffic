@@ -94,5 +94,5 @@ Phantom jams waste an enormous amount of fuel and time worldwide for no reason a
 
 ## Author
 
-**Saikarthik Ramakrishnan** — Electronics & Communication Engineering, Shiv Nadar University.
+**Saikarthik Ramakrishnan** — Electrical & and Computer Engineering, Shiv Nadar University.
 An independent project exploring the hardware–software–AI intersection through emergent complex systems.
